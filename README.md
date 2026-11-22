@@ -1,6 +1,5 @@
-# careloop-no-show-guard
 # CareLoop Clinics — No-Show Guard
-**Repository:** <PASTE_YOUR_PUBLIC_GITHUB_REPO_LINK_HERE>
+**Repository:** <(https://github.com/subird44-ux/careloop-no-show-guard)>
 
 ## Executive Summary
 * **Part 1 (Data Cleaning):** Cleaned 1,020 raw bookings down to 990 valid appointments (removing 20 duplicates, 6 invalid dates, and 4 blank statuses), revealing an overall no-show rate of **22.0%** (218 no-shows).
